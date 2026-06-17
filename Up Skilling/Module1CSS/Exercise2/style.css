@@ -1,0 +1,18 @@
+.container
+{
+
+display:flex;
+
+gap:20px;
+
+}
+
+
+.container div
+{
+
+background:orange;
+
+padding:20px;
+
+}

@@ -370,10 +370,9 @@ I sincerely thank **Cognizant** for providing the **Digital Nurture 5.0 – Deep
 
 ## 📌 Connect With Me
 
-- **Name:** Sufya Shaik
-- **Email:** shaiksufya191@gmail.com
-- **LinkedIn:** https://linkedin.com/in/shaik-sufya-54208836a
-- **GitHub:** https://github.com/shaiksufya
+- **Name:** Karalapati Deepti
+- **Email:** 231fa18309@gmail.com
+- **GitHub:** https://github.com/deepu050605
 
 ---
 
